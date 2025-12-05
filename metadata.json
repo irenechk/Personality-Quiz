@@ -1,0 +1,5 @@
+{
+  "name": "PsychoCineMatch",
+  "description": "A dark-themed, AI-powered personality quiz that matches you to a movie character and generates a psychological profile.",
+  "requestFramePermissions": []
+}
